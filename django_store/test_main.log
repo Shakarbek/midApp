@@ -1,0 +1,46 @@
+INFO -- 2021-05-16 12:05:44,783: User: admin posted new category
+INFO -- 2021-05-16 12:10:19,549: User: admin posted new category
+INFO -- 2021-05-16 12:10:39,707: User: admin posted new category
+INFO -- 2021-05-16 12:22:36,302: User: admin posted new category
+INFO -- 2021-05-16 12:26:25,701: User: admin posted new category
+ERROR -- 2021-05-16 13:39:42,264: {'location': [ErrorDetail(string='A valid integer is required.', code='invalid')]}
+ERROR -- 2021-05-16 13:41:07,186: {'location': [ErrorDetail(string='A valid integer is required.', code='invalid')]}
+ERROR -- 2021-05-16 13:43:50,710: User has no seller.
+ERROR -- 2021-05-16 13:44:16,970: User has no seller.
+ERROR -- 2021-05-16 13:47:05,954: User has no seller.
+ERROR -- 2021-05-16 13:53:34,515: User has no seller.
+ERROR -- 2021-05-16 13:59:09,014: User has no seller.
+ERROR -- 2021-05-16 14:01:40,756: User has no seller.
+ERROR -- 2021-05-16 14:01:55,654: User has no seller.
+ERROR -- 2021-05-16 15:03:35,317: User has no seller.
+ERROR -- 2021-05-16 15:04:05,594: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:06:06,941: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:13:47,631: JSON parse error - Expecting property name enclosed in double quotes: line 8 column 1 (char 169)
+ERROR -- 2021-05-16 15:13:56,025: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:24:05,308: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:24:12,881: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:24:21,225: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:26:44,041: Product() got an unexpected keyword argument 'location'
+ERROR -- 2021-05-16 15:27:25,722: table main_product has no column named location
+INFO -- 2021-05-16 15:29:41,162: User: Seller1 created Vitamin C
+INFO -- 2021-05-16 15:48:43,691: User: Seller1 created Vitamin D
+INFO -- 2021-05-16 16:11:00,875: User: Seller1 updated Vitamin C
+INFO -- 2021-05-16 16:12:38,477: User: Seller1 created Vitamin B
+INFO -- 2021-05-16 16:13:00,234: User: Seller1 created Vitamin B
+INFO -- 2021-05-16 16:16:08,674: User: Seller1 deleted Vitamin B
+ERROR -- 2021-05-16 16:26:14,308: User has no profile.
+ERROR -- 2021-05-16 16:26:53,797: User has no profile.
+ERROR -- 2021-05-16 16:26:54,780: User has no profile.
+ERROR -- 2021-05-16 16:26:55,690: User has no profile.
+ERROR -- 2021-05-16 16:28:26,479: 'address'
+ERROR -- 2021-05-16 16:28:37,311: 'address'
+ERROR -- 2021-05-16 16:28:38,535: 'address'
+ERROR -- 2021-05-16 16:30:53,179: 'address'
+ERROR -- 2021-05-16 16:36:47,629: 'address'
+ERROR -- 2021-05-16 16:37:25,425: 'address'
+ERROR -- 2021-05-16 16:37:38,592: 'address'
+ERROR -- 2021-05-16 17:11:20,429: 'address'
+ERROR -- 2021-05-16 17:21:47,688: User has no profile.
+ERROR -- 2021-05-16 17:22:23,303: User has no profile.
+ERROR -- 2021-05-16 17:22:34,040: User has no profile.
+INFO -- 2021-05-16 17:25:11,463: User: User4 created order
